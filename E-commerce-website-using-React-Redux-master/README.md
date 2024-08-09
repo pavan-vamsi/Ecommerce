@@ -24,6 +24,7 @@ To get started with this project, follow these steps:
 2. Install the required dependencies:
    
    ```bash
+   cd Ecommerce
    cd E-commerce-website-using-React-Redux-master
    npm install
    ```
