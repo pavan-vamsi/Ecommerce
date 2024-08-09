@@ -20,10 +20,11 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/E-commerce-website-using-React-Redux.git
    ```
+   if this doesn't work, please clone from the code part and run
 2. Install the required dependencies:
    
    ```bash
-   cd E-commerce-website-using-React-Redux
+   cd E-commerce-website-using-React-Redux-master
    npm install
    ```
 3. Start the development server:
